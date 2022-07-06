@@ -19,7 +19,7 @@ h1 {
     font-size: 3rem;
     color: rgba(221, 25, 77, 0.93);
     text-transform:lowercase;
-    text-decoration: underline solid rgb((27, 27, 67) 6%;
+    text-decoration: underline solid rgb(27, 27, 67) 6%;
     text-align: center;
 
 }
@@ -46,6 +46,7 @@ h1 {
     background-color: #e32214;
     border-color: #e32214;
     border-width: 0.12rem;
+   
 }
 
 
