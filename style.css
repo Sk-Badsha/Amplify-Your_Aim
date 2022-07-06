@@ -17,9 +17,9 @@ html {
 }
 h1 {
     font-size: 3rem;
-    color: rgba(41, 158, 136, 0.914);
+    color: rgba(221, 25, 77, 0.93);
     text-transform:lowercase;
-    text-decoration: underline solid rgb(221, 25, 77) 0.93%;
+    text-decoration: underline solid rgb((27, 27, 67) 6%;
     text-align: center;
 
 }
